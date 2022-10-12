@@ -1,0 +1,60 @@
+.badge {
+  position: absolute;
+  top: 70px;
+  left: 40%;
+  transform: rotate(-37deg);
+}
+
+h1 span {
+  font: 40px MonoSpace;
+  height: 200px;
+  position: absolute;
+  width: 20px;
+  left: 0;
+  top: 0;
+  transform-origin: bottom center;
+}
+
+.char1 {
+  transform: rotate(7deg);
+}
+
+.char2 {
+  transform: rotate(14deg);
+}
+
+.char3 {
+  transform: rotate(21deg);
+}
+
+.char4 {
+  transform: rotate(28deg);
+}
+
+.char5 {
+  transform: rotate(35deg);
+}
+
+.char6 {
+  transform: rotate(42deg);
+}
+
+.char7 {
+  transform: rotate(49deg);
+}
+
+.char8 {
+  transform: rotate(56deg);
+}
+
+.char9 {
+  transform: rotate(63deg);
+}
+
+.char10 {
+  transform: rotate(70deg);
+}
+
+.char11 {
+  transform: rotate(77deg);
+}
